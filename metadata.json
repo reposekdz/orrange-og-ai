@@ -1,0 +1,5 @@
+{
+  "name": "Full-Stack App Architect AI",
+  "description": "An AI-powered application generator that scaffolds a full-stack project structure from a text description or a visual reference (e.g., a mockup image). It generates frontend, backend, and database configurations, and provides a downloadable file tree with boilerplate code.",
+  "requestFramePermissions": []
+}
